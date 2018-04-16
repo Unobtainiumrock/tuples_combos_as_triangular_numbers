@@ -1,0 +1,13 @@
+## NPM ##
+node_modules/
+
+## Compiled Files ##
+node_modules
+
+dist/*
+
+## Visual Studio
+.vscode/*
+
+## NPM misc ##
+npm-debug.log
